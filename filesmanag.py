@@ -1,4 +1,5 @@
 #Program created by Mardok Security
+#TXT files manipulation.
 
 import os
 
