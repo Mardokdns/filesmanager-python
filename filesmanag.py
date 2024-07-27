@@ -1,7 +1,3 @@
-#Program created by Mardok Security
-#TXT files manipulation.
-#Sample program for Python beginners.
-
 import os
 
 print('''
