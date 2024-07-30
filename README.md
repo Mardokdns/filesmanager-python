@@ -1,2 +1,2 @@
 # FilesManager-Python
-TXT file handling system made in Python.
+Sistema de criar, deletar, ler e escrever dentro de um arquivo.
